@@ -1,0 +1,7 @@
+# Instagram Private API (Core Library)
+instagrapi==1.17.6
+
+# Pydantic is required by instagrapi. 
+# Explicitly mentioned here to avoid compilation errors on low-end systems.
+pydantic==2.5.3 
+pydantic-core==2.14.6
